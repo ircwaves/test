@@ -1,5 +1,7 @@
 # stactools-template
 
+blah
+
 This is a template repo used for creating new packages for `stactools`.
 
 ## How to use
